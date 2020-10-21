@@ -40,7 +40,7 @@ html {
   position: absolute;
   height: 100%;
   width: 100%;
-  background-color: teal;
+  background-color: navy;
   opacity: 0.3;
 }
 
@@ -74,7 +74,7 @@ html {
 
 #global-parallax .parallax-mask {
   position: fixed;
-  background-color: rgb(20, 120, 200);
+  background-color: rgb(21, 76, 194);
   opacity: 0.35;
 }
 
