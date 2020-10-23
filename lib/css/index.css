@@ -147,6 +147,27 @@ nav {
   color: black;
 } 
 
+
+
+/*Important Links*/
+
+.implinks {
+border-radius: 30px;
+}
+
+.sociallinks {
+  font-size: 30px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+  text-decoration: none;
+}
+
+/*Important Links*/
+
+
+
 /*Images*/
 
 .principal {
@@ -172,12 +193,12 @@ nav {
   color: #ffffff;
 }
 
-.lbry-dark-green {
+.dark-green {
   background-color: #00343e;
   color: #ffffff;
 }
 
-.lbry-dark-green:hover{
+.dark-green:hover{
   color: #25d9e0;
 }
 
