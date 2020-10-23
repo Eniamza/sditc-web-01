@@ -263,3 +263,35 @@ border-radius: 30px;
   transform: scale(0.6);
 }
 /* /scrollFade */
+
+/*hr styles*/
+hr.heading {
+  height: 20px;
+  width: 60%;
+  background-image: radial-gradient(
+    farthest-side at 50% -50%,
+    hsla(0, 0%, 0%, 0.5),
+    hsla(0, 0%, 0%, 0));
+  position: relative; 
+}
+
+hr.content {
+  height: 20px;
+  width: 100%;
+  background-image: radial-gradient(
+    farthest-side at 50% -50%,
+    hsla(0, 0%, 0%, 0.5),
+    hsla(0, 0%, 0%, 0));
+  position: relative; 
+}
+/*hr for sud headings in articles*/
+hr.subhead {
+  height: 20px;
+  width: 80%;
+  background-image: radial-gradient(
+    farthest-side at 50% -50%,
+    hsl(185, 76%, 52%),
+    hsla(0, 0%, 0%, 0));
+  position: relative; 
+}
+/*hr styles*/
