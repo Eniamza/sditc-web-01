@@ -147,6 +147,17 @@ nav {
   color: black;
 } 
 
+/*Images*/
+
+.principal {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  overflow: auto;
+}
+
+/*Images*/
 /* Special Branded Color Classes*/
 .bafsd-teal {
   background-color:rgb(66, 135, 245);
