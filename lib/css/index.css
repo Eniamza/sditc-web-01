@@ -118,6 +118,35 @@ nav {
 }
 /* /Navbar */
 
+/*Carousel*/
+
+.carousel-inner > .carousel-item > img {
+  width:600px;
+  height:400px;
+}
+
+.bsize {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+  overflow: auto;
+}
+
+/*Carousel*/
+
+.marquee {
+  width:70%; 
+  direction:left; 
+  height:30px; 
+  background-color: rgb(66, 135, 245);
+  border-radius: 25px;
+}
+
+.marquee > span > a {
+  color: black;
+} 
+
 /* Special Branded Color Classes*/
 .bafsd-teal {
   background-color:rgb(66, 135, 245);
