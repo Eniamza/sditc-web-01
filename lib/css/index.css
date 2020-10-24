@@ -254,7 +254,22 @@ border-radius: 30px;
 }
 /* /Card animations*/
 
+/*Contact Info*/
 
+.contact-card > p {
+  color: black;
+}
+
+.contact-card a {
+  color: red;
+  
+}
+
+.contact-card code {
+  color: red;
+}
+
+/*Contact Info*/
 
 
 /* scrollFade */
